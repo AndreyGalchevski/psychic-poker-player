@@ -1,5 +1,4 @@
-# Project Title
-
+# Psychic Poker Player
 Psychic Poker Player
 
 ## Getting Started
