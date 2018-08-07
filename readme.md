@@ -4,7 +4,8 @@ NodeJS app which calculates the best Poker hand from the given hand of 5 cards a
 
 ## Getting Started
 
-Git clone or download the repo. Install the dependencies. Place an input file in the input folder.
+Git clone or download the repo. Install the dependencies.
+Replace the data in the input file.
 Run node app.js. Enjoy the magic.
 
 ## Input Format and Encoding
@@ -37,11 +38,13 @@ npm install
 
 ## Running the tests
 
-Replace the input.txt file in input folder with your own file (but with the sam name :) ) and run the following command in the terminal
+Replace the data in the input.txt in the input folder with your own data and run the following command in the terminal
 
 ```
 node app.js
 ```
+
+The results will be in output.txt inside the output folder
 
 ## Built With
 
