@@ -1,5 +1,5 @@
 # Psychic Poker Player
-Psychic Poker Player
+NodeJS app which calculates the best Poker hand from the given hand of 5 cards and from the next 5 cards in the deck which were revealed by the magic psychic ability
 
 ## Getting Started
 
